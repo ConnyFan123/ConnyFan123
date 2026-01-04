@@ -7,13 +7,12 @@ Product-minded data & finance analyst who turns messy data into decisions people
 - Tooling: Python / SQL / Power BI / Tableau / AWS / Spark
 
 **Contact**
-- Email: connyfanfanjialai2004@gmail.com
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- Portfolio / Projects: <YOUR_PORTFOLIO_URL>
+- Email: jf4644@nyu.edu
+- LinkedIn: <https://www.linkedin.com/in/jialaifan0625>
 
 ---
 
-## What I do (PM lens)
+## What I do
 
 I like roles where the work looks like this:
 
@@ -37,7 +36,7 @@ I’m strongest when I’m the person connecting:
 - Designed interactive Power BI dashboards to surface allocation, variance drivers, and historical patterns for cross-functional decision-making.
 - Used multi-year history to inform forecasting and annual planning.
 
-**PM-style takeaway:** dashboards aren’t “visuals”—they’re decision products. I treated definitions, refresh cadence, and driver logic as part of the product.
+**Takeaway:** dashboards aren’t “visuals”—they’re decision products. I treated definitions, refresh cadence, and driver logic as part of the product.
 
 ---
 
@@ -47,7 +46,7 @@ I’m strongest when I’m the person connecting:
 - Designed omnichannel marketing strategies for five flagship products, aligning consumer personas, stakeholder feedback, and execution timelines.
 - Synthesized interview insights into actionable recommendations (channel mix, distribution, service) and presented marketing cases to support implementation.
 
-**PM-style takeaway:** strategy only matters if it translates into an execution plan people can actually run.
+**Takeaway:** strategy only matters if it translates into an execution plan people can actually run.
 
 ---
 
@@ -57,11 +56,11 @@ I’m strongest when I’m the person connecting:
 - Used SQL + BI workflows to extract DSP performance data and turn it into audience insights and optimization actions.
 - Developed a playbook on client pain points and KPIs, converting analysis into operational guidelines for targeting and measurement.
 
-**PM-style takeaway:** good reporting is “diagnose → decide → do,” not just “summarize.”
+**Takeaway:** good reporting is “diagnose → decide → do,” not just “summarize.”
 
 ---
 
-## Selected projects (written like mini case studies)
+## Selected projects
 
 ### Elo Merchant Category Recommendation Audit (Kaggle / Independent Research)
 **Goal:** stress-test a high-performing model and understand *where* it fails, not just overall score.  
